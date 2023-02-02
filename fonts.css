@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Share-BoldItalicOSF";
+   src: url("fonts/Share-BoldItalicOSF.woff") format("woff"), url("fonts/Share-BoldItalicOSF.eot") format("embedded-opentype"), url("fonts/Share-BoldItalicOSF.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
